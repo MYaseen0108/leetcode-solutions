@@ -22,11 +22,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0231-power-of-two](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## String
 |  |
@@ -74,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0191-number-of-1-bits](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0191-number-of-1-bits) |
+| [0231-power-of-two](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0231-power-of-two) |
 <!---LeetCode Topics End-->
