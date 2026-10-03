@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0002-add-two-numbers) |
+| [0029-divide-two-integers](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0231-power-of-two](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0231-power-of-two) |
 | [0509-fibonacci-number](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0509-fibonacci-number) |
 ## Recursion
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0029-divide-two-integers](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0029-divide-two-integers) |
 | [0136-single-number](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0191-number-of-1-bits) |
