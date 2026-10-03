@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0001-two-sum) |
 | [0004-median-of-two-sorted-arrays](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0004-median-of-two-sorted-arrays) |
+| [0078-subsets](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0088-merge-sorted-array) |
 | [0136-single-number](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0137-single-number-ii) |
@@ -82,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0029-divide-two-integers](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0029-divide-two-integers) |
+| [0078-subsets](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0078-subsets) |
 | [0136-single-number](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0136-single-number) |
 | [0137-single-number-ii](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0191-number-of-1-bits) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0088-merge-sorted-array](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0088-merge-sorted-array) |
+## Backtracking
+|  |
+| ------- |
+| [0078-subsets](https://github.com/MYaseen0108/leetcode-solutions/tree/master/0078-subsets) |
 <!---LeetCode Topics End-->
